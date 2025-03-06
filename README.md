@@ -1,9 +1,18 @@
-# Doge
+# 🐕 Doge Repository
 
-Welcome to the Doge repository! 🐕
+A fun and simple repository to explore GitHub features.
 
-## Getting Started
+## 🚀 Quick Start
 ```bash
 git clone https://github.com/debuthe12/doge.git
 cd doge
 ```
+
+## 📁 Project Structure
+```
+doge/
+└── README.md
+```
+
+## 📝 License
+MIT License
